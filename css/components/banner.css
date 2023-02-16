@@ -1,0 +1,9 @@
+.banner {
+  padding: 150px 0px;
+  color: white;
+}
+
+.banner p {
+  color: grey;
+  margin-bottom: 30px;
+}
